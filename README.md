@@ -1,4 +1,6 @@
-# Memory Lane — Memory Match Game (https://nba-triviamain.vercel.app/)
+# Memory Lane — Memory Match Game 
+
+https://nba-triviamain.vercel.app
 
 A theme-based memory match game for all ages, built with Next.js. No image
 assets and no heavy libraries, so it loads fast even on low-end devices.
